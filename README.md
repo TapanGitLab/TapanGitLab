@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Tapan 👋! ![](https://komarev.com/ghpvc/?username=TapanGitLab&color=blue) </h1> <h3 align="center">Software Developer specializing in Java, Spring & Cloud-Native Microservices</h3> 
-🧭 About Me
+<h1 align="center">Hi there, I'm Tapan 👋! <img src="https://komarev.com/ghpvc/?username=TapanGitLab&color=blue" alt="Profile Views" /></h1>
+<h3 align="center">Software Developer specializing in Java, Spring & Cloud-Native Microservices</h3>
+
+<p align="center">🧭 About Me</p>
 
 I'm a software developer who architects scalable, resilient microservices — primarily on the Java / Spring Boot stack. I care about writing software that stays reliable as it grows, not just something that runs well in a demo.
 
