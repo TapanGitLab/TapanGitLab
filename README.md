@@ -3,7 +3,7 @@
 
 <p align="center">🧭 About Me</p>
 
-I'm a software developer who architects scalable, resilient microservices — primarily on the Java / Spring Boot stack. I care about writing software that stays reliable as it grows, not just something that runs well in a demo.
+I'm a software developer focused on building scalable, reliable microservices using Java and Spring Boot. I value clean code, thoughtful design, and building software that remains maintainable and dependable as it grows.
 
 🔭 Currently building distributed systems and exploring AI-tool integrations (MCP servers with Spring AI)
 
